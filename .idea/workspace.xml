@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3f17e7c-9eb8-404d-8799-e0196d0b4a3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[FSC_API_30]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ljsEE99wOPk6kQFjVPehk8XLQa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/msal/client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/msal/client" />
+      <recent name="$PROJECT_DIR$/lib/msal" />
+      <recent name="$PROJECT_DIR$/lib/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/msal/request" />
+      <recent name="$PROJECT_DIR$/lib/msal/utils" />
+      <recent name="$PROJECT_DIR$/lib/msal/abstract" />
+      <recent name="$PROJECT_DIR$/lib/msal/aad" />
+      <recent name="$PROJECT_DIR$/lib/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f17e7c-9eb8-404d-8799-e0196d0b4a3c" name="Default Changelist" comment="" />
+      <created>1608121720192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608121720192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="226" key="#PSD" timestamp="1608233649399">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="340" y="226" key="#PSD/0.23.2560.929@0.23.2560.929" timestamp="1608233649399" />
+    <state x="828" y="271" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1608122505124">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="828" y="271" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2560.929@0.23.2560.929" timestamp="1608122505124" />
+    <state x="606" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608228497944">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="606" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.929@0.23.2560.929" timestamp="1608228497944" />
+    <state x="753" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1608122506615">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="753" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.2560.929@0.23.2560.929" timestamp="1608122506615" />
+    <state x="554" y="243" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608316075438">
+      <screen x="0" y="23" width="2560" height="939" />
+    </state>
+    <state x="554" y="241" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.929@0.23.2560.929" timestamp="1608139564343" />
+    <state x="554" y="243" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.939@0.23.2560.939" timestamp="1608316075438" />
+    <state x="240" y="123" width="1701" height="729" key="AVDManager" timestamp="1608290355628">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="240" y="123" width="1701" height="729" key="AVDManager/0.23.2560.929@0.23.2560.929" timestamp="1608290355628" />
+    <state x="878" y="249" key="FileChooserDialogImpl" timestamp="1608122657145">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="878" y="249" key="FileChooserDialogImpl/0.23.2560.929@0.23.2560.929" timestamp="1608122657145" />
+    <state x="103" y="123" width="1426" height="729" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608214907324">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="103" y="123" width="1426" height="729" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.929@0.23.2560.929" timestamp="1608214907324" />
+    <state x="473" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608312654335">
+      <screen x="0" y="23" width="2560" height="939" />
+    </state>
+    <state x="473" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.939@0.23.2560.939" timestamp="1608312654335" />
+    <state x="783" y="213" width="615" height="548" key="find.popup" timestamp="1608122667642">
+      <screen x="0" y="23" width="2560" height="929" />
+    </state>
+    <state x="783" y="213" width="615" height="548" key="find.popup/0.23.2560.929@0.23.2560.929" timestamp="1608122667642" />
+    <state x="480" y="229" width="670" height="687" key="search.everywhere.popup" timestamp="1608310090036">
+      <screen x="0" y="23" width="2560" height="943" />
+    </state>
+    <state x="480" y="226" width="670" height="676" key="search.everywhere.popup/0.23.2560.929@0.23.2560.929" timestamp="1608228532127" />
+    <state x="480" y="229" width="670" height="687" key="search.everywhere.popup/0.23.2560.943@0.23.2560.943" timestamp="1608310090036" />
+  </component>
+</project>

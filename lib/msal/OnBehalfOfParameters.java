@@ -1,0 +1,56 @@
+// Copyright (c) Microsoft Corporation. All rights reserved.
+// Licensed under the MIT License.
+
+package msal;
+
+import lombok.*;
+import lombok.experimental.Accessors;
+import msal.client.IApiParameters;
+
+import java.util.Set;
+
+import static com.microsoft.aad.msal4j.ParameterValidationUtils.validateNotEmpty;
+
+/**
+ * Object containing parameters for On-Behalf-Of flow. Can be used as parameter to
+ * {@link ConfidentialClientApplication#acquireToken(OnBehalfOfParameters)}
+ *
+ * For more details, see https://aka.ms/msal4j-on-behalf-of
+ */
+@Builder
+@Accessors(fluent = true)
+@Getter
+@AllArgsConstructor(access = AccessLevel.PRIVATE)
+public class OnBehalfOfParameters implements IApiParameters {
+
+    @NonNull
+    private Set<String> scopes;
+
+    /**
+     * Claims to be requested through the OIDC claims request parameter, allowing requests for standard and custom claims
+     */
+    private ClaimsRequest claims;
+
+    @NonNull
+    private IUserAssertion userAssertion;
+
+    private static OnBehalfOfParametersBuilder builder() {
+
+        return new OnBehalfOfParametersBuilder();
+    }
+
+    /**
+     * Builder for {@link OnBehalfOfParameters}
+     * @param scopes scopes application is requesting access to
+     * @param userAssertion {@link UserAssertion} created from access token received
+     * @return builder that can be used to construct OnBehalfOfParameters
+     */
+    public static OnBehalfOfParametersBuilder builder(Set<String> scopes, UserAssertion userAssertion) {
+
+        validateNotEmpty("scopes", scopes);
+
+        return builder()
+                .scopes(scopes)
+                .userAssertion(userAssertion);
+    }
+}
